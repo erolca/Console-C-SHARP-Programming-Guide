@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication_1", "ConsoleUygulamaları\ConsoleApplication_1.csproj", "{A5683279-5DF7-4E75-9295-B2C2A1745A4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication_1", "ConsoleApplication_1\ConsoleApplication_1.csproj", "{A5683279-5DF7-4E75-9295-B2C2A1745A4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication_2", "ConsoleUygulamaları_2\ConsoleApplication_2.csproj", "{3EED8C8C-71D5-4FDF-AD84-C9D9904FFBF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication_2", "ConsoleApplication_2\ConsoleApplication_2.csproj", "{3EED8C8C-71D5-4FDF-AD84-C9D9904FFBF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUygulamaları_3", "ConsoleUygulamaları_3\ConsoleUygulamaları_3.csproj", "{2A90770C-3CEA-45D5-885B-D9B9908AEE15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUygulamaları_3", "ConsoleApplication_3\ConsoleUygulamaları_3.csproj", "{2A90770C-3CEA-45D5-885B-D9B9908AEE15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
